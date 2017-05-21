@@ -1,3 +1,4 @@
+![](https://github.com/nu11secur1ty/-WannaCry-/blob/master/inside/0564d4ec4885448fc55b26b11c1ae743.png)
 # The worm that spreads WanaCrypt0r
 
 by Zammis Clark
