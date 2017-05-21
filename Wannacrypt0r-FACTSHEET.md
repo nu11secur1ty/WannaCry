@@ -1,4 +1,5 @@
 # WannaCry|WannaDecrypt0r NSA-Cyberweapon-Powered Ransomware Worm 
+![](https://github.com/nu11secur1ty/-WannaCry-/blob/master/nfo/worm_winmain.png)
 
 * **Virus Name**: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY
 * **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate.
